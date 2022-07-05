@@ -47,6 +47,7 @@ h1 {
     animation: fall 3s linear;
     cursor: pointer;
     font-size: 32px;
+    user-select: none;
 }
 
 @keyframes fall {
