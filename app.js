@@ -48,5 +48,5 @@ function createSnow() {
 setInterval(createSnow, 1000);
 
 leftTime();
-setInterval(leftTime, 1000)
+setInterval(leftTime, 1000);
 
